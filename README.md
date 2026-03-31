@@ -49,10 +49,10 @@ student-performance-predictor/
 
 ##  Installation & Setup
 
-1. Clone the repository:
+1. My repository:
 
 ```
-git clone https://github.com/your-username/student-performance-predictor.git
+https://github.com/rajputprince2006/student-performance-predictor.git
 ```
 
 2. Navigate to the project folder:
